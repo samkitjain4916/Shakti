@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.firebasepractice.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.firebasepractice.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_shakti"
+        android:name="com.example.firebasepractice.ui.shakti.ShaktiFragment"
+        android:label="Register for SEP"
+        tools:layout="@layout/fragment_shakti" />
+    <fragment
+        android:id="@+id/nav_mail"
+        android:name="com.example.firebasepractice.ui.mail.MailFragment"
+        android:label="@string/menu_mail"
+        tools:layout="@layout/fragment_mail" />
+    <fragment
+        android:id="@+id/nav_chat"
+        android:name="com.example.firebasepractice.ui.chat.ChatFragment"
+        android:label="@string/menu_chat"
+        tools:layout="@layout/fragment_chat" />
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.firebasepractice.ui.contact.ContactFragment"
+        android:label="Join Us"
+        tools:layout="@layout/fragment_contact" />
+    <fragment
+        android:id="@+id/nav_sapne"
+        android:name="com.example.firebasepractice.ui.sapne.SapneFragment"
+        android:label="Sapne NGO"
+        tools:layout="@layout/fragment_sapne" />
+    <fragment
+        android:id="@+id/nav_developer"
+        android:name="com.example.firebasepractice.ui.developer.DeveloperFragment"
+        android:label="Developer"
+        tools:layout="@layout/fragment_developer" />
+
+</navigation>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable-v24/gradient_back_extra7.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable-v24/gradient_back_extra8.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/gradient_back_extra1.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/gradient_back_extra2.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/gradient_back_extra3.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/gradient_back_extra4.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/gradient_back_extra5.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/gradient_back_extra6.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/gradient_back_home.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/gradient_back_mail.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/ic_baseline_call.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/ic_baseline_logout.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/ic_baseline_mail_24.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/ic_baseline_person.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/drawable/side_nav_bar.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/activity_sign_in.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/activity_signin.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/activity_start.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/activity_user_data.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/activity_user_data_item.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/app_bar_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/chat_list_item.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/content_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_chat.xml" value="0.22" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_contact.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_developer.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_gallery.xml" value="0.17457962413452027" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_logout.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_mail.xml" value="0.22" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_sapne.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_shakti.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/fragment_slideshow.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/item.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/mail_fragment.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/layout/nav_header_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/menu/activity_main_drawer.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/FirebasePractice/app/src/main/res/menu/main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/drawable/colour_cursor.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/drawable/gradient_back_extra1.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/drawable/gradient_back_extra4.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/drawable/ic_baseline_child_care_24.xml" value="0.2" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/activity_lock.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/activity_register.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/activity_signin.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/activity_splash.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/activity_start.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/activity_user_data.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/app_bar_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/chat_list_item.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/content_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/fragment_chat.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/fragment_contact.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/fragment_developer.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/fragment_gallery.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/fragment_home.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/fragment_mail.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/fragment_sapne.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/fragment_shakti.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/fragment_slideshow.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/layout/nav_header_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/menu/activity_main_drawer.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/menu/main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/samkit/AndroidStudioProjects/Shakti/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

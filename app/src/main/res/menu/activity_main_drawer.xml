@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+     >
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_shakti"
+            android:icon="@drawable/ic_baseline_local_fire"
+            android:title="@string/menu_shakti" />
+        <item
+            android:id="@+id/nav_sapne"
+            android:icon="@drawable/ic_baseline_child"
+            android:title="@string/menu_sapne" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_baseline_chat"
+            android:title="@string/menu_chat" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_baseline_contact"
+            android:title="@string/menu_contact" />
+        <item
+            android:id="@+id/nav_mail"
+            android:icon="@drawable/ic_baseline_mail"
+            android:title="@string/menu_mail" />
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_baseline_notifications"
+            android:title="@string/menu_notifications" />
+        <item
+            android:id="@+id/nav_call"
+            android:icon="@drawable/ic_baseline_call"
+            android:title="@string/menu_call" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_logout"
+            android:title="@string/menu_logout" />
+
+    </group>
+
+
+    <item android:title="Developer's Section">
+        <menu>
+
+            <item
+            android:id="@+id/nav_admin"
+            android:icon="@drawable/ic_baseline_https_lock"
+            android:title="@string/menu_admin" />
+
+            <item
+            android:id="@+id/nav_developer"
+            android:icon="@drawable/ic_baseline_person"
+            android:title="@string/menu_developer" />
+
+        </menu>
+    </item>
+
+</menu>
